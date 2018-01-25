@@ -14,7 +14,7 @@
       <driver-ref>sqlserver.ms</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
-      <jdbc-url>jdbc:sqlserver://localhost\DESKTOP-982JDH3:1434;database=Bjornligan</jdbc-url>
+      <jdbc-url>jdbc:sqlserver://localhost\Database_PATH:1434;database=Bjornligan</jdbc-url>
       <driver-properties>
         <property name="applicationName" value="DataGrip" />
       </driver-properties>
