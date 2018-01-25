@@ -19,5 +19,12 @@
         <property name="applicationName" value="DataGrip" />
       </driver-properties>
     </data-source>
+    <data-source source="LOCAL" name="jdbc:hsqldb:file:C:/Users/Haris/IdeaProjects/ProjectIcarusWithServer\Database_PATH/" uuid="70a5fcb7-dd87-49a5-ae6a-6fdfc96f9be0">
+      <driver-ref>hsqldb.local</driver-ref>
+      <synchronize>true</synchronize>
+      <configured-by-url>true</configured-by-url>
+      <jdbc-driver>org.hsqldb.jdbc.JDBCDriver</jdbc-driver>
+      <jdbc-url>jdbc:hsqldb:file:$PROJECT_DIR$/../ProjectIcarusWithServer\Database_PATH/</jdbc-url>
+    </data-source>
   </component>
 </project>
